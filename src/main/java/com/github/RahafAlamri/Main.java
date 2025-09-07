@@ -1,8 +1,6 @@
-package com.github.RhafAlamri;
+package com.github.RahafAlamri;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chromium.ChromiumDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
