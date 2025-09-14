@@ -1,4 +1,4 @@
-package testPackage;
+package utilities;
 /*
 
         // 1. elementToBeClickable
